@@ -6,17 +6,17 @@ CourseGPT is an intelligent web-based authoring tool that empowers educators and
 ##  Key Features
 
 -  **AI-Powered Lesson Generator**
-  - Generate titles, descriptions, outcomes, concepts, and activities by just entering a topic.
+        - Generate titles, descriptions, outcomes, concepts, and activities by just entering a topic.
   
 -  **Module Organization System**
-  - Group lessons into modules.
-  - Add metadata (difficulty, prerequisites, estimated time).
-  - Intelligent sequencing suggestions.
+      - Group lessons into modules.
+      - Add metadata (difficulty, prerequisites, estimated time).
+      - Intelligent sequencing suggestions.
 
 -  **Interactive Content Editor**
-  - Intuitive rich text editing interface.
-  - Regenerate specific sections using AI.
-  - Formatting tools for educational content.
+      - Intuitive rich text editing interface.
+      - Regenerate specific sections using AI.
+      - Formatting tools for educational content.
 
 ---
 
