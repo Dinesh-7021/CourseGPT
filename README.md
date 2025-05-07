@@ -24,7 +24,7 @@ CourseGPT is an intelligent web-based authoring tool that empowers educators and
 
 | Layer        | Technology             |
 |--------------|------------------------|
-| Frontend     | React.js, Tailwind CSS |
+| Frontend     | React.js |
 | Backend      | Node.js, Express.js    |
 
 
